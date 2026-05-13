@@ -64,7 +64,7 @@ img {
   align-items: center;
   width: 100%;
   max-width: 600px;
-  background-image: url("../images/left-bg.jpg");
+  background-image: url("../img/left-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -102,7 +102,7 @@ img {
   width: 20px;
   height: 19px;
   margin-right: 12px;
-  background-image: url("../images/icon-star.svg");
+  background-image: url("../img/icon-star.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -120,6 +120,6 @@ only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
 .hero {
-  background-image: url("../images/left-bg@2x.jpg");
+  background-image: url("../img/left-bg@2x.jpg");
 }
 }
